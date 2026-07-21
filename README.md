@@ -64,9 +64,7 @@ sketchcat/
 ├── README.md
 ├── CHANGELOG.md
 ├── COPYRIGHT.md
-├── PUBLISHING_CHECKLIST.md
 ├── checksums.txt
-├── validation.json
 ├── assets/
 │   ├── contact-sheet.png
 │   ├── look-directions.png
