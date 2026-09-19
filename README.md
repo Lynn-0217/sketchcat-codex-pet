@@ -89,16 +89,4 @@ This is a community-created pet and is not an official OpenAI or Codex asset.
 
 ---
 
-## 中文说明
-
-Sketchcat 是一个非官方 Codex 桌面宠物，基于原创手绘小猫制作，采用 Codex v2 动画格式。
-
-安装时，将整个仓库文件夹放入：
-
-```text
-C:\Users\你的用户名\.codex\pets\sketchcat
-```
-
-然后重启 Codex，并在宠物选择器中选择 **Sketchcat**。真正必须保留的文件只有 `pet.json` 和 `spritesheet.webp`。
-
 本项目采用 **CC BY-NC 4.0**：允许分享和修改，但必须署名 **Lynn**、注明是否修改，并且禁止商用。
