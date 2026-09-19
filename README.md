@@ -88,5 +88,3 @@ The designated public attribution name is **Lynn**.
 This is a community-created pet and is not an official OpenAI or Codex asset.
 
 ---
-
-本项目采用 **CC BY-NC 4.0**：允许分享和修改，但必须署名 **Lynn**、注明是否修改，并且禁止商用。
