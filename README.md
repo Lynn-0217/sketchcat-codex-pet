@@ -1,6 +1,6 @@
 # Sketchcat for Codex
 
-![Sketchcat animation contact sheet](assets/contact-sheet.png)
+![Sketchcat v1.1.0 animation contact sheet](assets/v1.1.0/contact-sheet.png)
 
 Sketchcat is an unofficial custom animated pet for the Codex desktop app. It is based on Lynn's original minimalist hand-drawn cat, refined with a shorter rounded body, softer upright ears, a tiny smile, subtle peach cheeks, and an expressive attached tail.
 
@@ -47,11 +47,11 @@ Then restart Codex and select **Sketchcat**.
 
 | Idle | Jumping | Waving |
 | --- | --- | --- |
-| ![Idle](assets/previews/idle.gif) | ![Jumping](assets/previews/jumping.gif) | ![Waving](assets/previews/waving.gif) |
+| ![Idle](assets/v1.1.0/previews/idle.gif) | ![Jumping](assets/v1.1.0/previews/jumping.gif) | ![Waving](assets/v1.1.0/previews/waving.gif) |
 
 | Running right | Waiting | Failed |
 | --- | --- | --- |
-| ![Running right](assets/previews/running-right.gif) | ![Waiting](assets/previews/waiting.gif) | ![Failed](assets/previews/failed.gif) |
+| ![Running right](assets/v1.1.0/previews/running-right.gif) | ![Waiting](assets/v1.1.0/previews/waiting.gif) | ![Failed](assets/v1.1.0/previews/failed.gif) |
 
 The complete atlas layout and direction mapping are documented in [Animation specification](docs/ANIMATION_SPEC.md).
 
@@ -75,7 +75,10 @@ sketchcat/
 ├── assets/
 │   ├── contact-sheet.png
 │   ├── look-directions.png
-│   └── previews/
+│   ├── previews/
+│   └── v1.1.0/
+│       ├── contact-sheet.png
+│       └── previews/
 └── docs/
     └── ANIMATION_SPEC.md
 ```
