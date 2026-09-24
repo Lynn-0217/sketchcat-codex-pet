@@ -1,7 +1,7 @@
 {
   "id": "sketchcat",
   "displayName": "Sketchcat",
-  "description": "A playful minimalist hand-drawn cat with a boxy body, pointed ears, simple vertical eyes, and a thin expressive tail.",
+  "description": "A cute minimalist hand-drawn line-art cat based on Lynn's original sketch.",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }

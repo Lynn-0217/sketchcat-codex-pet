@@ -2,7 +2,7 @@
 
 ![Sketchcat animation contact sheet](assets/contact-sheet.png)
 
-Sketchcat is an unofficial custom animated pet for the Codex desktop app. It is based on an original minimalist hand-drawn cat: a boxy body, pointed upright ears, two simple vertical eyes, and an expressive tail.
+Sketchcat is an unofficial custom animated pet for the Codex desktop app. It is based on Lynn's original minimalist hand-drawn cat, refined with a shorter rounded body, softer upright ears, a tiny smile, subtle peach cheeks, and an expressive attached tail.
 
 This package uses the Codex v2 pet format:
 
@@ -55,6 +55,14 @@ Then restart Codex and select **Sketchcat**.
 
 The complete atlas layout and direction mapping are documented in [Animation specification](docs/ANIMATION_SPEC.md).
 
+## Design details
+
+- Flat 2D hand-drawn line art; no realistic or 3D treatment
+- No separate legs or feet
+- Down-looking poses shorten the whole silhouette
+- Both ears remain upright during the failed animation
+- Jumping begins smoothly without an initial size pop
+
 ## Package contents
 
 ```text
@@ -64,7 +72,6 @@ sketchcat/
 ├── README.md
 ├── CHANGELOG.md
 ├── COPYRIGHT.md
-├── checksums.txt
 ├── assets/
 │   ├── contact-sheet.png
 │   ├── look-directions.png
